@@ -1,0 +1,4 @@
+1301 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+5440 [main] INFO  botsystest.tests.core.TestBase -- {"id":"674308450c04b02d5a4ffe26","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"EURUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-24T11:04:37.297Z","indicators":[{"indicator":"STOCHASTIC","period":14,"interval":"1m"}]}

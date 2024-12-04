@@ -1,0 +1,7 @@
+1335 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+7136 [main] INFO  b.t.t.CheckStreamAfterChangeBot -- {"id":"674c324dccdd251796b3ba68","exchangeId":"674c324cccdd251796b3ba66","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"Start","createdAt":"2024-12-01T09:54:21.628Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+7539 [main] INFO  b.t.t.CheckStreamAfterChangeBot -- {"id":"674c324cccdd251796b3ba66","usedId":"6747a3f63bcb7f0ed4612be6","name":"ChangeAndDelete","type":"real","exchange":"Binance","apiKey":"InvalidKey","secretKey":"InvalidSecretKey","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+7904 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674c324dccdd251796b3ba68","exchangeId":"674c324cccdd251796b3ba66","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"Stop","createdAt":"2024-12-01T09:54:21.628Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+8055 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674c324cccdd251796b3ba66","usedId":"6747a3f63bcb7f0ed4612be6","name":"ChangeAndDelete","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}

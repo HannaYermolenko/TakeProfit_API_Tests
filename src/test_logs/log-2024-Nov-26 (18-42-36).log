@@ -1,0 +1,23 @@
+1852 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+9438 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746089447d15a05ac513154","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+9439 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746089447d15a05ac513154 was deleted.
+10887 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746089647d15a05ac513155","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+10887 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746089647d15a05ac513155 was deleted.
+12309 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746089747d15a05ac513156","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+12309 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746089747d15a05ac513156 was deleted.
+13702 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746089947d15a05ac513157","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+13702 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746089947d15a05ac513157 was deleted.
+15083 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746089a47d15a05ac513158","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+15083 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746089a47d15a05ac513158 was deleted.
+16472 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746089b47d15a05ac513159","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+16473 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746089b47d15a05ac513159 was deleted.
+17804 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746089d47d15a05ac51315a","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+17805 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746089d47d15a05ac51315a was deleted.
+19147 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746089e47d15a05ac51315b","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+19148 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746089e47d15a05ac51315b was deleted.
+20480 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746089f47d15a05ac51315c","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+20481 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746089f47d15a05ac51315c was deleted.
+21857 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674608a147d15a05ac51315d","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+21858 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 674608a147d15a05ac51315d was deleted.

@@ -1,0 +1,9 @@
+1289 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+5259 [main] INFO  b.tets.exchanges.CreateExchangeTest -- {"id":"6745a3ccb7d283609694f9e2","usedId":"673f00fc7acc7f2d9b12b749","name":"19.11","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+5463 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745a3ccb7d283609694f9e2","usedId":"673f00fc7acc7f2d9b12b749","name":"19.11","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+6173 [main] INFO  b.tets.exchanges.CreateExchangeTest -- {"id":"6745a3cdb7d283609694f9e3","usedId":"673f00fc7acc7f2d9b12b749","name":"19.11","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-1022,\"msg\":\"Signature for this request is not valid.\"}"}
+6320 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745a3cdb7d283609694f9e3","usedId":"673f00fc7acc7f2d9b12b749","name":"19.11","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-1022,\"msg\":\"Signature for this request is not valid.\"}"}
+7016 [main] INFO  b.tets.exchanges.CreateExchangeTest -- {"id":"6745a3ceb7d283609694f9e4","usedId":"673f00fc7acc7f2d9b12b749","name":"19.11","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+7149 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745a3ceb7d283609694f9e4","usedId":"673f00fc7acc7f2d9b12b749","name":"19.11","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}

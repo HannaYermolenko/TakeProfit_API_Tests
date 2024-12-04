@@ -1,0 +1,7 @@
+1856 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+8829 [main] INFO  b.t.t.CheckStreamAfterChangeBot -- {"id":"674e2e16ccdd251796b3be66","exchangeId":"674e2e14ccdd251796b3be64","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"Start","createdAt":"2024-12-02T22:00:54.255Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+9272 [main] INFO  b.t.t.CheckStreamAfterChangeBot -- {"id":"674e2e16ccdd251796b3be66","exchangeId":"674e2e14ccdd251796b3be64","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"Stop","createdAt":"2024-12-02T22:00:54.255Z","indicators":[{"indicator":"EMA","period":14,"interval":"1m"}]}
+9780 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674e2e16ccdd251796b3be66","exchangeId":"674e2e14ccdd251796b3be64","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"Stop","createdAt":"2024-12-02T22:00:54.255Z","indicators":[{"indicator":"EMA","period":14,"interval":"1m"}]}
+9941 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674e2e14ccdd251796b3be64","usedId":"6747a3f63bcb7f0ed4612be6","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}

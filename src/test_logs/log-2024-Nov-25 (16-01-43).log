@@ -1,0 +1,5 @@
+1351 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+6242 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67448df29760354c6fd8b4a8","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"ENJUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-25T14:47:14.121Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+6714 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67448e549760354c6fd8b568","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"VTHOUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-25T14:48:52.730Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}

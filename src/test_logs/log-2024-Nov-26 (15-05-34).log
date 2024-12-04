@@ -1,0 +1,6 @@
+1361 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+7923 [main] INFO  b.tets.bots.CreateBotsTests -- {"id":"6745d5b521cc6f4266b9a95b","exchangeId":"6745c60e21cc6f4266b9a938","tradingPair":"USDTTRY","type":"Short","deposit":10.0,"stopLoss":false,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T14:05:41.600461962Z","indicators":[{"indicator":"RSI","period":1,"interval":"1s"}]}
+8089 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745d5b521cc6f4266b9a95b","exchangeId":"6745c60e21cc6f4266b9a938","tradingPair":"USDTTRY","type":"Short","deposit":10.0,"stopLoss":false,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T14:05:41.600Z","indicators":[{"indicator":"RSI","period":1,"interval":"1s"}]}
+8234 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745d5b321cc6f4266b9a959","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}

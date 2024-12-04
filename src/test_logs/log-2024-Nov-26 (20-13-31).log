@@ -1,0 +1,4 @@
+1353 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+8135 [main] INFO  b.tets.exchanges.DeleteExchangeTest -- {"id":"67461de347d15a05ac513305","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}

@@ -1,0 +1,8 @@
+1243 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+7993 [main] INFO  b.tets.bots.CreateBotsTests -- {"id":"6745e1fb47d15a05ac512f53","exchangeId":"6745c60e21cc6f4266b9a938","tradingPair":"USDTTRY","type":"Short","deposit":10.0,"stopLoss":false,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T14:58:03.429150254Z","indicators":[{"indicator":"RSI","period":1,"interval":"1s"}]}
+8283 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745e1fb47d15a05ac512f53","exchangeId":"6745c60e21cc6f4266b9a938","tradingPair":"USDTTRY","type":"Short","deposit":10.0,"stopLoss":false,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T14:58:03.429Z","indicators":[{"indicator":"RSI","period":1,"interval":"1s"}]}
+8283 [main] INFO  b.tets.bots.CreateBotsTests -- Bot with ID 6745e1fb47d15a05ac512f53 was deleted.
+8465 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745e1f947d15a05ac512f51","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+8465 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745e1f947d15a05ac512f51 was deleted.

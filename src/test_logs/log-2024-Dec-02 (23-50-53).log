@@ -1,0 +1,6 @@
+1782 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+8627 [main] INFO  botsystest.tests.bots.GetBotsTests -- Bot details: {"id":"674e39d6ccdd251796b3bf56","exchangeId":"6747a3f63bcb7f0ed4612be7","tradingPair":"ETHUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-12-02T22:51:02.217Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+8781 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674e39d6ccdd251796b3bf56","exchangeId":"6747a3f63bcb7f0ed4612be7","tradingPair":"ETHUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-12-02T22:51:02.217Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+8782 [main] INFO  botsystest.tests.bots.GetBotsTests -- Bot with ID 674e39d6ccdd251796b3bf56 was deleted.

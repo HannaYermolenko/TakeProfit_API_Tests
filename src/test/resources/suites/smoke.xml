@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="smoke" verbose="1">
+    <test name="smoke">
+        <classes>
+            <class name="botsystest.tests.bots.CreateSuccessfulBotsTests">
+                <methods>
+                    <include name=".*Positive.*"/>
+                </methods>
+            </class>
+            <class name="botsystest.tests.bots.DeleteActiveBotTests">
+                <methods>
+                    <include name=".*Negative.*"/>
+                </methods>
+            </class>
+            <class name="botsystest.tests.bots.DeleteBotsNotActiveTests">
+                <methods>
+                    <include name=".*Positive.*"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

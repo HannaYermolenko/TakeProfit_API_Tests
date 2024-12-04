@@ -1,0 +1,5 @@
+2890 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+10804 [main] INFO  b.t.exchanges.CreateExchangeTest -- {"id":"674e1cf5ccdd251796b3bdf3","usedId":"6747a3f63bcb7f0ed4612be6","name":"19.11","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+11031 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674e1cf5ccdd251796b3bdf3","usedId":"6747a3f63bcb7f0ed4612be6","name":"19.11","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}

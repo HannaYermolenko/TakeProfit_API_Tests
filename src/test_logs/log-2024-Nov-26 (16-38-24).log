@@ -1,0 +1,93 @@
+1776 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+8518 [main] INFO  b.tets.bots.CreateBotsTests -- Bot created successfully: 6745eb7847d15a05ac512f89
+8734 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7847d15a05ac512f89","exchangeId":"6745eb7647d15a05ac512f87","tradingPair":"USDTTRY","type":"Short","deposit":10.0,"stopLoss":false,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T15:38:32.082Z","indicators":[{"indicator":"RSI","period":1,"interval":"1s"}]}
+8735 [main] INFO  b.tets.bots.CreateBotsTests -- Deleted bot: 6745eb7847d15a05ac512f89
+8905 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7647d15a05ac512f87","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+8905 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb7647d15a05ac512f87 was deleted.
+10300 [main] INFO  b.tets.bots.CreateBotsTests -- Bot created successfully: 6745eb7947d15a05ac512f8c
+10452 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7947d15a05ac512f8c","exchangeId":"6745eb7947d15a05ac512f8a","tradingPair":"USDTZAR","type":"Short","deposit":7.0,"stopLoss":true,"takeProfit":false,"pumpDump":true,"status":"stop","createdAt":"2024-11-26T15:38:33.921Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+10453 [main] INFO  b.tets.bots.CreateBotsTests -- Deleted bot: 6745eb7947d15a05ac512f8c
+10605 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7947d15a05ac512f8a","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+10605 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb7947d15a05ac512f8a was deleted.
+11922 [main] INFO  b.tets.bots.CreateBotsTests -- Bot created successfully: 6745eb7b47d15a05ac512f8f
+12084 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7b47d15a05ac512f8f","exchangeId":"6745eb7a47d15a05ac512f8d","tradingPair":"USDTZAR","type":"Short","deposit":10.0,"stopLoss":false,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T15:38:35.549Z","indicators":[{"indicator":"RSI","period":100,"interval":"3m"}]}
+12084 [main] INFO  b.tets.bots.CreateBotsTests -- Deleted bot: 6745eb7b47d15a05ac512f8f
+12248 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7a47d15a05ac512f8d","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+12248 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb7a47d15a05ac512f8d was deleted.
+13573 [main] INFO  b.tets.bots.CreateBotsTests -- Bot created successfully: 6745eb7d47d15a05ac512f92
+13747 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7d47d15a05ac512f92","exchangeId":"6745eb7c47d15a05ac512f90","tradingPair":"USDTZAR","type":"Short","deposit":1.0,"stopLoss":true,"takeProfit":false,"pumpDump":true,"status":"stop","createdAt":"2024-11-26T15:38:37.204Z","indicators":[{"indicator":"RSI","period":14,"interval":"5m"}]}
+13747 [main] INFO  b.tets.bots.CreateBotsTests -- Deleted bot: 6745eb7d47d15a05ac512f92
+13906 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7c47d15a05ac512f90","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+13906 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb7c47d15a05ac512f90 was deleted.
+15172 [main] INFO  b.tets.bots.CreateBotsTests -- Bot created successfully: 6745eb7e47d15a05ac512f95
+15310 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7e47d15a05ac512f95","exchangeId":"6745eb7e47d15a05ac512f93","tradingPair":"USDTUAH","type":"Short","deposit":13.0,"stopLoss":false,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T15:38:38.807Z","indicators":[{"indicator":"STOCHASTIC","period":756,"interval":"15m"}]}
+15311 [main] INFO  b.tets.bots.CreateBotsTests -- Deleted bot: 6745eb7e47d15a05ac512f95
+15477 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7e47d15a05ac512f93","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+15477 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb7e47d15a05ac512f93 was deleted.
+17185 [main] INFO  b.tets.bots.CreateBotsTests -- Bot created successfully: 6745eb8047d15a05ac512f98
+17342 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8047d15a05ac512f98","exchangeId":"6745eb7f47d15a05ac512f96","tradingPair":"USDTDAI","type":"Short","deposit":10.0,"stopLoss":true,"takeProfit":false,"pumpDump":true,"status":"stop","createdAt":"2024-11-26T15:38:40.811Z","indicators":[{"indicator":"STOCHASTIC","period":842,"interval":"30m"}]}
+17342 [main] INFO  b.tets.bots.CreateBotsTests -- Deleted bot: 6745eb8047d15a05ac512f98
+17496 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb7f47d15a05ac512f96","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+17497 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb7f47d15a05ac512f96 was deleted.
+18760 [main] INFO  b.tets.bots.CreateBotsTests -- Bot created successfully: 6745eb8247d15a05ac512f9b
+18906 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8247d15a05ac512f9b","exchangeId":"6745eb8147d15a05ac512f99","tradingPair":"USDTDAI","type":"Short","deposit":10.0,"stopLoss":false,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T15:38:42.387Z","indicators":[{"indicator":"STOCHASTIC","period":12,"interval":"1h"}]}
+18906 [main] INFO  b.tets.bots.CreateBotsTests -- Deleted bot: 6745eb8247d15a05ac512f9b
+19092 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8147d15a05ac512f99","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+19093 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8147d15a05ac512f99 was deleted.
+20331 [main] INFO  b.tets.bots.CreateBotsTests -- Bot created successfully: 6745eb8347d15a05ac512f9e
+20468 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8347d15a05ac512f9e","exchangeId":"6745eb8347d15a05ac512f9c","tradingPair":"USDTDAI","type":"Short","deposit":5.0,"stopLoss":true,"takeProfit":false,"pumpDump":true,"status":"stop","createdAt":"2024-11-26T15:38:43.973Z","indicators":[{"indicator":"STOCHASTIC","period":120,"interval":"2h"}]}
+20468 [main] INFO  b.tets.bots.CreateBotsTests -- Deleted bot: 6745eb8347d15a05ac512f9e
+20624 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8347d15a05ac512f9c","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+20624 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8347d15a05ac512f9c was deleted.
+21889 [main] INFO  b.tets.bots.CreateBotsTests -- Bot created successfully: 6745eb8547d15a05ac512fa1
+22047 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8547d15a05ac512fa1","exchangeId":"6745eb8447d15a05ac512f9f","tradingPair":"USDTUAH","type":"Short","deposit":6.0,"stopLoss":false,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T15:38:45.466Z","indicators":[{"indicator":"STOCHASTIC","period":840,"interval":"4h"}]}
+22047 [main] INFO  b.tets.bots.CreateBotsTests -- Deleted bot: 6745eb8547d15a05ac512fa1
+22188 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8447d15a05ac512f9f","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+22188 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8447d15a05ac512f9f was deleted.
+23373 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair ETHBTC is not available for the specified exchange."}
+23503 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8647d15a05ac512fa2","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+23504 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8647d15a05ac512fa2 was deleted.
+24612 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair LTCBTC is not available for the specified exchange."}
+24755 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8747d15a05ac512fa3","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+24756 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8747d15a05ac512fa3 was deleted.
+25824 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair BNBBTC is not available for the specified exchange."}
+25967 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8847d15a05ac512fa4","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+25967 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8847d15a05ac512fa4 was deleted.
+27065 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair NEOBTC is not available for the specified exchange."}
+27202 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8a47d15a05ac512fa5","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+27203 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8a47d15a05ac512fa5 was deleted.
+28952 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair QTUMETH is not available for the specified exchange."}
+29102 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8b47d15a05ac512fa7","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+29102 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8b47d15a05ac512fa7 was deleted.
+30240 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair EOSETH is not available for the specified exchange."}
+30373 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8d47d15a05ac512fa8","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+30373 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8d47d15a05ac512fa8 was deleted.
+31483 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair SNTETH is not available for the specified exchange."}
+31627 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8e47d15a05ac512fa9","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+31627 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8e47d15a05ac512fa9 was deleted.
+32784 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair BNTETH is not available for the specified exchange."}
+32921 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb8f47d15a05ac512faa","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+32921 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb8f47d15a05ac512faa was deleted.
+33996 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair BCCBTC is not available for the specified exchange."}
+34199 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb9147d15a05ac512fab","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+34199 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb9147d15a05ac512fab was deleted.
+35286 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair GASBTC is not available for the specified exchange."}
+35463 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb9247d15a05ac512fac","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+35463 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb9247d15a05ac512fac was deleted.
+36597 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair BNBETH is not available for the specified exchange."}
+36732 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb9347d15a05ac512fad","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+36732 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb9347d15a05ac512fad was deleted.
+37902 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair WTCBTC is not available for the specified exchange."}
+38056 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb9447d15a05ac512fae","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+38057 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb9447d15a05ac512fae was deleted.
+39188 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair LRCBTC is not available for the specified exchange."}
+39331 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb9647d15a05ac512faf","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+39331 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb9647d15a05ac512faf was deleted.
+40473 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair OMGBTC is not available for the specified exchange."}
+40624 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb9747d15a05ac512fb0","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+40624 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb9747d15a05ac512fb0 was deleted.
+41783 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair ZRXETH is not available for the specified exchange."}
+41916 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745eb9847d15a05ac512fb1","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+41916 [main] INFO  b.tets.bots.CreateBotsTests -- Exchange with ID 6745eb9847d15a05ac512fb1 was deleted.

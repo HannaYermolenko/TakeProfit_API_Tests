@@ -1,0 +1,7 @@
+1661 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+6739 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67448dd79760354c6fd8b478","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"ICXUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-25T14:46:47.643Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+7328 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67448e0a9760354c6fd8b4d8","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"CVCUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-25T14:47:38.031Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+7787 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67448e3b9760354c6fd8b538","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"USDTZAR","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-25T14:48:27.758Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+8274 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67448e6c9760354c6fd8b598","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"NMRUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-25T14:49:16.742Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}

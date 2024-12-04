@@ -1,0 +1,5 @@
+1254 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+5190 [main] INFO  b.tets.exchanges.CreateExchangeTest -- {"id":"67435e3851f016621e863443","usedId":"673f00fc7acc7f2d9b12b749","name":"19.11","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+5396 [main] INFO  botsystest.tests.core.TestBase -- {"id":"67435e3851f016621e863443","usedId":"673f00fc7acc7f2d9b12b749","name":"19.11","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}

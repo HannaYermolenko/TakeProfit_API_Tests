@@ -1,0 +1,8 @@
+1324 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+5736 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67461fa547d15a05ac51330d","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+5737 [main] INFO  b.tets.exchanges.DeleteExchangeTest -- {"message":"This exchange does not have bots, deletion is safe"}
+8490 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67461fa647d15a05ac51330e","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":true,"connect":true,"message":"Connected successfully"}
+8649 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67461fa847d15a05ac513310","exchangeId":"67461fa647d15a05ac51330e","tradingPair":"DOGEUSDT","type":"Long","deposit":5.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-26T19:21:12.458Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+8649 [main] INFO  b.tets.exchanges.DeleteExchangeTest -- {"message":"After deleting the exchange, the bots will be deactivated.","bots":[{"id":"67461fa847d15a05ac513310","exchangeId":"67461fa647d15a05ac51330e","tradingPair":"DOGEUSDT","type":"Long","deposit":5.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-26T19:21:12.458Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}]}

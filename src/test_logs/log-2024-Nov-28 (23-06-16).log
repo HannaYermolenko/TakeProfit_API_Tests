@@ -1,0 +1,6 @@
+1324 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+7512 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6748e95f48bc2d06c5eb8569","usedId":"67479ff33bcb7f0ed4612be2","name":"NewExchange","type":"real","exchange":"Binance","isDefault":true,"connect":true,"message":"Connected successfully"}
+7670 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6748e96048bc2d06c5eb856b","exchangeId":"6748e95f48bc2d06c5eb8569","tradingPair":"DOGEUSDT","type":"Long","deposit":5.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-28T22:06:24.757Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+7670 [main] INFO  b.t.e.GetMessageBeforeDeleteExchangeTest -- {"message":"After deleting the exchange, the bots will be deactivated.","bots":[{"id":"6748e96048bc2d06c5eb856b","exchangeId":"6748e95f48bc2d06c5eb8569","tradingPair":"DOGEUSDT","type":"Long","deposit":5.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-28T22:06:24.757Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}]}

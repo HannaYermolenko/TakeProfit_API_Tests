@@ -1,0 +1,7 @@
+1268 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+5454 [main] INFO  botsystest.tests.core.TestBase -- {"id":"674276700c04b02d5a4ffd9b","exchangeId":"673f368601570348c81a6cd6","tradingPair":"ETHUSDT","type":"Long","deposit":12.0,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"Stop","createdAt":"2024-11-24T00:42:24.757Z","indicators":[{"indicator":"EMA","period":2,"interval":"1h"}]}
+5954 [main] INFO  botsystest.tests.core.TestBase -- {"id":"67427a6d0c04b02d5a4ffda5","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"EURUSDT","type":"Long","deposit":10.0,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"stop","createdAt":"2024-11-24T00:59:25.703Z","indicators":[{"indicator":"STOCHASTIC","period":7,"interval":"5m"}]}
+6427 [main] INFO  botsystest.tests.core.TestBase -- {"id":"674308890c04b02d5a4ffe2d","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"EURUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"stop","createdAt":"2024-11-24T11:05:45.628Z","indicators":[{"indicator":"STOCHASTIC","period":14,"interval":"1m"}]}
+6871 [main] INFO  botsystest.tests.core.TestBase -- {"id":"67433b390c04b02d5a4ffe4f","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"ETHUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-11-24T14:42:01.120Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}

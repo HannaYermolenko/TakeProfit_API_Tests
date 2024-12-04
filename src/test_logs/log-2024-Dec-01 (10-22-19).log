@@ -1,0 +1,5 @@
+1277 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+7982 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674c2ad2ccdd251796b3ba57","exchangeId":"674c2ad0ccdd251796b3ba55","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"stopLoss":true,"takeProfit":true,"pumpDump":true,"status":"Stop","createdAt":"2024-12-01T09:22:26.022Z","indicators":[{"indicator":"EMA","period":14,"interval":"1m"}]}
+8177 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674c2ad0ccdd251796b3ba55","usedId":"6747a3f63bcb7f0ed4612be6","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}

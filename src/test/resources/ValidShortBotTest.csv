@@ -1,0 +1,9 @@
+USDTTRY,Short,5,false,true,false,RSI,1,1s
+USDTZAR,Short,5,true,false,true,RSI,14,1m
+USDTZAR,Short,5,false,true,false,RSI,100,3m
+USDTZAR,Short,5,true,false,true,RSI,14,5m
+USDTUAH,Short,5,false,true,false,STOCHASTIC,756,15m
+USDTDAI,Short,5,true,false,true,STOCHASTIC,842,30m
+USDTDAI,Short,5,false,true,false,STOCHASTIC,12,1h
+USDTDAI,Short,5,true,false,true,STOCHASTIC,120,2h
+USDTUAH,Short,5,false,true,false,STOCHASTIC,840,4h

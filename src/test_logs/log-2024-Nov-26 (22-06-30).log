@@ -1,0 +1,7 @@
+1374 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+5445 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745d14721cc6f4266b9a954","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+5839 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745d7e821cc6f4266b9a971","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+7216 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745f1e347d15a05ac513009","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+7592 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746056847d15a05ac513140","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}

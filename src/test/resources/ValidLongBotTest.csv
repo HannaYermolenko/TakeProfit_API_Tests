@@ -1,0 +1,10 @@
+BTCUSDT,Long,5,false,true,false,RSI,1,1s
+BNBUSDT,Long,5,true,false,true,STOCHASTIC,500,1M
+NEOUSDT,Long,5,false,true,false,STOCHASTIC,300,1m
+BTCUSDT,Long,5,true,false,true,RSI,200,3d
+NEOUSDT,Long,5,false,true,false,STOCHASTIC,600,8h
+BTCUSDT,Long,5,true,false,true,EMA,750,4h
+BNBUSDT,Long,5,false,true,false,EMA,810,12h
+XRPUSDT,Long,5,true,false,true,EMA,10,15m
+XRPUSDT,Long,5,false,true,false,EMA,5,1d
+NEOUSDT,Long,5,true,false,true,EMA,8,1w

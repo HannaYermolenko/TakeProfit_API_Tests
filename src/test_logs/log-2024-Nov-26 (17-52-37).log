@@ -1,0 +1,8 @@
+1367 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+5875 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- {"error":"FORBIDDEN","message":"Exchange is not connected."}
+6043 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745fcda47d15a05ac5130b1","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+6203 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745fcdb47d15a05ac5130b2","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":true,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+6204 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- Exchange with ID 6745fcda47d15a05ac5130b1 was deleted.
+6204 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- Exchange with ID 6745fcdb47d15a05ac5130b2 was deleted.

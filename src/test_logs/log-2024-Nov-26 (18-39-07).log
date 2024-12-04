@@ -1,0 +1,17 @@
+2501 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+10802 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- {"id":"674607c547d15a05ac51314b","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"EURUSDT","type":"Short","deposit":0.08,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T17:39:17.464032329Z","indicators":[{"indicator":"STOCHASTIC","period":7,"interval":"5m"}]}
+10994 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674607c547d15a05ac51314b","exchangeId":"673f00fc7acc7f2d9b12b74a","tradingPair":"EURUSDT","type":"Short","deposit":0.08,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T17:39:17.464Z","indicators":[{"indicator":"STOCHASTIC","period":7,"interval":"5m"}]}
+11164 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674607c447d15a05ac513148","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+11362 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674607c447d15a05ac513149","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":true,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+11363 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- Exchange with ID 674607c447d15a05ac513148 was deleted.
+11363 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- Exchange with ID 674607c447d15a05ac513149 was deleted.
+11364 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- Bot with ID 674607c547d15a05ac51314b was deleted.
+13841 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- {"id":"674607c947d15a05ac51314f","exchangeId":"6745c60e21cc6f4266b9a938","tradingPair":"EURUSDT","type":"Short","deposit":0.08,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T17:39:21.165573189Z","indicators":[{"indicator":"STOCHASTIC","period":7,"interval":"5m"}]}
+14022 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674607c947d15a05ac51314f","exchangeId":"6745c60e21cc6f4266b9a938","tradingPair":"EURUSDT","type":"Short","deposit":0.08,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"stop","createdAt":"2024-11-26T17:39:21.165Z","indicators":[{"indicator":"STOCHASTIC","period":7,"interval":"5m"}]}
+14195 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674607c747d15a05ac51314c","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+14379 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674607c747d15a05ac51314d","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":true,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+14380 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- Exchange with ID 674607c747d15a05ac51314c was deleted.
+14380 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- Exchange with ID 674607c747d15a05ac51314d was deleted.
+14380 [main] INFO  b.t.bots.CreateSuccessfulBotsTests -- Bot with ID 674607c947d15a05ac51314f was deleted.

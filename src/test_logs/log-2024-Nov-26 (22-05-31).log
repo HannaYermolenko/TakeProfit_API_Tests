@@ -1,0 +1,12 @@
+1207 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+5678 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745d14621cc6f4266b9a953","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+6144 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745d54421cc6f4266b9a958","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+6611 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745d6bc21cc6f4266b9a95e","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+6985 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745e1fc47d15a05ac512f54","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+7425 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745f02347d15a05ac512fce","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+7807 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745f1e347d15a05ac51300a","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+8213 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6745f79c47d15a05ac5130a0","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+8626 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67461cf647d15a05ac5132fe","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+9002 [main] INFO  botsystem.core.ApplicationManager -- {"id":"67461ec647d15a05ac51330a","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}

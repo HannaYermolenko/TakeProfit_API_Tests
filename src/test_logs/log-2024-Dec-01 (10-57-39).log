@@ -1,0 +1,6 @@
+1303 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+6831 [main] INFO  b.t.t.CheckStreamAfterDeleteExchange -- {"id":"674c3319ccdd251796b3ba6d","exchangeId":"674c3318ccdd251796b3ba6b","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"Start","createdAt":"2024-12-01T09:57:45.480Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+7066 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674c3318ccdd251796b3ba6b","usedId":"6747a3f63bcb7f0ed4612be6","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+7461 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674c3319ccdd251796b3ba6d","exchangeId":"674c3318ccdd251796b3ba6b","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"stopLoss":false,"takeProfit":false,"pumpDump":false,"status":"Stop","createdAt":"2024-12-01T09:57:45.480Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}

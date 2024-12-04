@@ -1,0 +1,1 @@
+11364 [Test worker] INFO  b.tests.bots.DeleteBotsTests -- {"id":"674f1d8fccdd251796b3c4db","exchangeId":"6747a3f63bcb7f0ed4612be7","tradingPair":"ETHUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-12-03T15:02:39.909Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}

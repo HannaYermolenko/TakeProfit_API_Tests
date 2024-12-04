@@ -1,0 +1,7 @@
+1415 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+6593 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746056447d15a05ac51313e","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+6593 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746056447d15a05ac51313e was deleted.
+7977 [main] INFO  botsystem.core.ApplicationManager -- {"id":"6746056647d15a05ac51313f","usedId":"673f00fc7acc7f2d9b12b749","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":true,"message":"Connected successfully"}
+7978 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 6746056647d15a05ac51313f was deleted.

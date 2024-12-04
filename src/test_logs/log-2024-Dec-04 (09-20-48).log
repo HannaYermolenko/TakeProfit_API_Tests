@@ -1,0 +1,12 @@
+2268 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+9263 [main] INFO  botsystem.core.ApplicationManager -- Changing bot status. Bot ID: 675010ead8246157614ef1fb, Status: Start
+9782 [main] INFO  botsystem.core.ApplicationManager -- Response for bot ID 675010ead8246157614ef1fb: {"id":"675010ead8246157614ef1fb","exchangeId":"675010e9d8246157614ef1f9","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"minProfit":null,"stopLoss":true,"takeProfit":true,"pumpDump":false,"status":"Start","createdAt":"2024-12-04T08:20:58.981Z","profitAll":null,"indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+9821 [main] INFO  b.tests.bots.DeleteActiveBotTests -- 675010ead8246157614ef1fb
+Start
+10001 [main] INFO  b.tests.bots.DeleteActiveBotTests -- {"error":"ExchangeBadRequest","message":"Cannot delete running bot"}
+10025 [main] INFO  botsystem.core.ApplicationManager -- Changing bot status. Bot ID: 675010ead8246157614ef1fb, Status: Stop
+10196 [main] INFO  botsystem.core.ApplicationManager -- Response for bot ID 675010ead8246157614ef1fb: {"id":"675010ead8246157614ef1fb","exchangeId":"675010e9d8246157614ef1f9","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"minProfit":null,"stopLoss":true,"takeProfit":true,"pumpDump":false,"status":"Stop","createdAt":"2024-12-04T08:20:58.981Z","profitAll":null,"indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+10441 [main] INFO  botsystem.core.ApplicationManager -- {"id":"675010ead8246157614ef1fb","exchangeId":"675010e9d8246157614ef1f9","tradingPair":"ETHUSDT","type":"Long","deposit":5.0,"minProfit":null,"stopLoss":true,"takeProfit":true,"pumpDump":false,"status":"Stop","createdAt":"2024-12-04T08:20:58.981Z","profitAll":null,"indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}
+10601 [main] INFO  botsystem.core.ApplicationManager -- {"id":"675010e9d8246157614ef1f9","usedId":"6747a3f63bcb7f0ed4612be6","name":"NewExchange","type":"real","exchange":"Binance","isDefault":true,"connect":true,"message":"Connected successfully"}

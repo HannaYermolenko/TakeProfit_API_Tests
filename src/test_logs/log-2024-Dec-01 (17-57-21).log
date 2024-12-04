@@ -1,0 +1,9 @@
+2988 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+12398 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674c957cccdd251796b3bb5d","usedId":"6747a3f63bcb7f0ed4612be6","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+12399 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 674c957cccdd251796b3bb5d was deleted.
+13507 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674c957eccdd251796b3bb5e","usedId":"6747a3f63bcb7f0ed4612be6","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+13508 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 674c957eccdd251796b3bb5e was deleted.
+14551 [main] INFO  botsystem.core.ApplicationManager -- {"id":"674c957fccdd251796b3bb5f","usedId":"6747a3f63bcb7f0ed4612be6","name":"NewExchange","type":"real","exchange":"Binance","isDefault":false,"connect":false,"message":"Error while checking API status: {\"code\":-2008,\"msg\":\"Invalid Api-Key ID.\"}"}
+14552 [main] INFO  botsystest.tests.bots.BotsTestsCSV -- Exchange with ID 674c957fccdd251796b3bb5f was deleted.

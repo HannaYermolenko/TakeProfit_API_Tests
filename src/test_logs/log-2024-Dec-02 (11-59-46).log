@@ -1,0 +1,4 @@
+1232 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+6174 [main] INFO  b.tets.bots.DeleteBotsTests -- {"id":"674d932accdd251796b3bd3b","exchangeId":"6747a3f63bcb7f0ed4612be7","tradingPair":"ETHUSDT","type":"Long","deposit":100.0,"stopLoss":true,"takeProfit":true,"pumpDump":false,"status":"stop","createdAt":"2024-12-02T10:59:54.820Z","indicators":[{"indicator":"RSI","period":14,"interval":"1m"}]}

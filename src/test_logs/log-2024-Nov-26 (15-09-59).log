@@ -1,0 +1,4 @@
+1312 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+6755 [main] INFO  b.tets.bots.CreateBotsTests -- {"error":"ExchangeBadRequest","message":"Trading pair ETHBTC is not available for the specified exchange."}
