@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Dec 04 15:31:13 GMT 2024","Wed Dec 04 15:31:14 GMT 2024","1028","smoke","smoke","botsystest.tests.bots.DeleteActiveBotTests","botsystest.tests.bots.DeleteActiveBotTests","botsDeleteRunningNegativeTest","botsDeleteRunningNegativeTest",""
+"passed","Wed Dec 04 15:31:17 GMT 2024","Wed Dec 04 15:31:17 GMT 2024","604","smoke","smoke","botsystest.tests.bots.DeleteBotsNotActiveTests","botsystest.tests.bots.DeleteBotsNotActiveTests","botsDeleteSuccessfulPositiveTest","botsDeleteSuccessfulPositiveTest",""
+"passed","Wed Dec 04 15:31:08 GMT 2024","Wed Dec 04 15:31:10 GMT 2024","1179","smoke","smoke","botsystest.tests.bots.CreateSuccessfulBotsTests","botsystest.tests.bots.CreateSuccessfulBotsTests","botCreatePositiveTest","botCreatePositiveTest",""
+"passed","Wed Dec 04 15:31:03 GMT 2024","Wed Dec 04 15:31:04 GMT 2024","1757","smoke","smoke","botsystest.tests.bots.CreateSuccessfulBotsTests","botsystest.tests.bots.CreateSuccessfulBotsTests","botCreatePositiveDemoTest","botCreatePositiveDemoTest",""
